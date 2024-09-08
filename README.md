@@ -1,6 +1,6 @@
 # Python Project Tutorials
 
-This repository contains 12 Python projects, each designed to help improve your Python programming skills. These projects are based on tutorials developed by Kylie Ying, which you can follow along with on her YouTube channel: [ycubed]([https://www.youtube.com/c/ycubed](https://www.youtube.com/watch?v=8ext9G7xspg&t=416s)).
+This repository contains 12 Python projects, each designed to help improve your Python programming skills. These projects are based on tutorials developed by Kylie Ying, which you can follow along with on her YouTube channel: [ycubed](https://www.youtube.com/watch?v=8ext9G7xspg&t=416s](https://www.youtube.com/watch?v=8ext9G7xspg&t=417s)).
 
 Each project covers different fundamental concepts and techniques in Python, providing both beginner and intermediate-level coders with practical experience.
 
