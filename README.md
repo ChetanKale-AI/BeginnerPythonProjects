@@ -6,7 +6,7 @@ Each project covers different fundamental concepts and techniques in Python, pro
 
 ## Table of Contents
 
-1. [Madlibs](#Madlibs)
+1. [Madlibs](#https://github.com/ChetanKale-AI/BeginnerPythonProjects/tree/main/Madlibs)
 2. [Guess the Number (Computer)](#2-guess-the-number-computer)
 3. [Guess the Number (User)](#3-guess-the-number-user)
 4. [Rock Paper Scissors](#4-rock-paper-scissors)
