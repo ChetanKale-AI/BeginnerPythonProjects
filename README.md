@@ -10,7 +10,7 @@ Each project covers different fundamental concepts and techniques in Python, pro
 2. [Guess the Number (Computer)](https://github.com/ChetanKale-AI/Python-Beginner_Projects/tree/main/Guess%20The%20Number)
 3. [Guess the Number (User)](https://github.com/ChetanKale-AI/Python-Beginner_Projects/tree/main/Guess%20The%20Number)
 4. [Rock Paper Scissors](https://github.com/ChetanKale-AI/Python-Beginner_Projects/tree/main/Rock%20Paper%20Scissors)
-5. [Hangman](#5-hangman)
+5. [Hangman](https://github.com/ChetanKale-AI/Python-Beginner_Projects/tree/main/Hangman)
 6. [Tic-Tac-Toe](#6-tic-tac-toe)
 7. [Tic-Tac-Toe AI](#7-tic-tac-toe-ai)
 8. [Binary Search](#8-binary-search)
